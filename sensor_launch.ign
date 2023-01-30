@@ -1,0 +1,6 @@
+<?xml version='1.0' ?>
+<ignition version='1.0'>
+	<executable name='sensor-world'>
+		<command>ign gazebo sensor_tutorials.sdf</command>
+	</executable>
+<ignition>
